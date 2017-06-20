@@ -1,0 +1,5 @@
+{
+  "name": "movie-analyst-api",
+  "version": "1.0.0",
+  "description": "Movie Analyst aggregates and displays a list of the latest movie reviews by famous critics across the web. Users can view the latest movie reviews, learn about the critics that review them, and also see the publications that Movie Analyst has partnered with."
+}
